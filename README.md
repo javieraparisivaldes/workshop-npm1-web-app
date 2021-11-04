@@ -1,2 +1,2 @@
 # story-book-npm
-story book repository NPM example
+react web app with own import NPM package
